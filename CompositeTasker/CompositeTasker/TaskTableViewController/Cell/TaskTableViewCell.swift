@@ -54,11 +54,6 @@ class TaskTableViewCell: UITableViewCell {
                          bottom: nil,
                          trailing: safeAreaLayoutGuide.trailingAnchor,
                          padding: UIEdgeInsets(top: inset, left: inset, bottom: inset, right: inset))
-//        stackView
-//        stackView
-//        stackView
-//        stackView
-        
     }
     
 
